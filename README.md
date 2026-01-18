@@ -8,6 +8,12 @@
 - Flask, API
 - SQLite
 
+## My Soft Skills:
+- Time Management
+- Teamwork
+- Self-Assesment
+- Honesty
+
 ## My Biggest Projects (so far):
 - Werik_web (https://github.com/VeraTheDiver/Pyton-Projects-priv-/tree/main/Werik_web)
 - Werik_game (https://github.com/VeraTheDiver/Pyton-Projects-priv-/tree/main/Werik_game)

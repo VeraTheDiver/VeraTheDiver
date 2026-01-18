@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi everyone, I am Vera
+💡Python Backend Developer
 
-<!--
-**VeraTheDiver/VeraTheDiver** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## My Hard Skills:
+- Python, Algorythms, and OOP
+- Telegram Bots, Pyrogram
+- PyGame
+- Flask, API
+- SQLite
 
-Here are some ideas to get you started:
+## My Biggest Projects (so far):
+Werik_web (https://github.com/VeraTheDiver/Pyton-Projects-priv-/tree/main/Werik_web)
+Werik_game (https://github.com/VeraTheDiver/Pyton-Projects-priv-/tree/main/Werik_game)
+Werik_ai (https://github.com/VeraTheDiver/Pyton-Projects-priv-/tree/main/Werik_ai)
+Telegram-Bot-Werik (https://github.com/VeraTheDiver/Pyton-Projects-priv-/tree/main/Telegram-Bot-Werik)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Contacts:
+https://github.com/VeraTheDiver/Pyton-Projects-priv-
